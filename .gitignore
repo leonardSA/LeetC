@@ -1,0 +1,10 @@
+# C extensions
+*.so
+*.o
+
+# Binaries
+bin
+
+# vim
+*.swo
+*.swp
